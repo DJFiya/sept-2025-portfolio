@@ -259,7 +259,7 @@ export function HeroSection(): ReactElement {
               className="bg-background/50 backdrop-blur-sm border-cyan-400/50 hover:border-cyan-400 hover:bg-cyan-400/10 transition-all duration-300"
               asChild
             >
-              <a href="https://linkedin.com/in/daevikjain" target="_blank" rel="noopener noreferrer">
+              <a href="https://linkedin.com/in/daevik-jain" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5 mr-2" />
                 LinkedIn
               </a>
@@ -273,7 +273,7 @@ export function HeroSection(): ReactElement {
               className="bg-background/50 backdrop-blur-sm border-violet-400/50 hover:border-violet-400 hover:bg-violet-400/10 transition-all duration-300"
               asChild
             >
-              <a href="https://github.com/daevikjain" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/DJFiya" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 mr-2" />
                 GitHub
               </a>
