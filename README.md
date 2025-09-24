@@ -234,13 +234,6 @@ This project is open source and available under the [MIT License](LICENSE).
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Contact
-
-**Daevik Jain**
-- Email: daevikjain@gmail.com
-- Phone: 647-615-7812
-- LinkedIn: [linkedin.com/in/daevikjain](https://linkedin.com/in/daevikjain)
-- GitHub: [github.com/daevikjain](https://github.com/daevikjain)
 
 ---
 

@@ -22,7 +22,7 @@ export function Footer() {
           {/* Social Links */}
           <div className="flex justify-center space-x-6">
             <motion.a
-              href="https://github.com/daevikjain"
+              href="https://github.com/DJFiya"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card/50 backdrop-blur-sm border border-border/50 hover:border-violet-400/50 transition-colors"
@@ -33,7 +33,7 @@ export function Footer() {
             </motion.a>
 
             <motion.a
-              href="https://linkedin.com/in/daevikjain"
+              href="https://linkedin.com/in/daevik-jain"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card/50 backdrop-blur-sm border border-border/50 hover:border-cyan-400/50 transition-colors"
